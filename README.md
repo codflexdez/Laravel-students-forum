@@ -3,9 +3,6 @@
 ## Tp2 Laravel 
 
 
- **Le lien pour accéder à votre site sur webdev:**
-*https://e2295542.webdev.cmaisonneuve.qc.ca/laravelDev/*
-
 
 1. En utilisant les lignes de commande, créer un nouveau projet Laravel nommée Maisonneuve{votre matricule}
 
